@@ -1,2 +1,3 @@
-# UM_Salaries
-Analyzing a subset of the University of Michigan's 2019 salary disclosure data
+# Recipe-Generator
+
+A program that allows you to add recipes and then generator a randomly selected recipe to prepare as your next meal. 
