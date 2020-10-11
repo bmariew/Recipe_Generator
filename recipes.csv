@@ -5,3 +5,8 @@
 3,tacos2,"['beef', 'tortilla shells']","['1. Brown beef', '2. Add taco seasoning']"
 4,pasta2,"['1 jar of pasta sauce', '1 box of noodles']","['1. boil water', '2. boil nooods for 10 minutes']"
 5,waffles2,"['waffles', 'syrup']","['1. Toast waffle', '2. Pour syrup']"
+6,tacos2,"['beef', 'tortilla shells']","['1. Brown beef', '2. Add taco seasoning']"
+7,pasta2,"['1 jar of pasta sauce', '1 box of noodles']","['1. boil water', '2. boil nooods for 10 minutes']"
+8,waffles2,"['waffles', 'syrup']","['1. Toast waffle', '2. Pour syrup']"
+9,,[''],['']
+10,cereal,"['cereal', ' milk']","['1. pour cereal', ' 2. pour milk']"
